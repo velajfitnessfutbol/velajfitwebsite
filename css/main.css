@@ -125,6 +125,10 @@ img {
 
 }
 
+#coaching{
+    background-color: white;
+}
+
 /* ==================================================================================
 Services Section
 ===================================================================================*/
@@ -282,6 +286,7 @@ a,p,h1,h2,h3,h4,ul {
     width: auto;
 }
 
+
 /* ==========================================================================
  Navigation 
 ========================================================================== */
@@ -403,7 +408,7 @@ input:-moz-placeholder { color:#fff; }
     font-weight:normal;
     /* text-transform:uppercase; */
     margin-bottom:15px;
-    color: #999999;
+    color: #fff8f8;
     position:relative;
     /* font-family: 'Kreon',serif; */
 }
@@ -512,6 +517,21 @@ dd {
 }
 .demo-content.bg-alt{
     background: #abb1b8;
+}
+
+#about-paragraph{
+    color:white;
+}
+
+#sessions-description{
+    color: white;
+}
+
+.description-individual{
+    justify-content: center;
+}
+#trainer-name{
+    font-weight: bold;
 }
 
 
